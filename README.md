@@ -1,20 +1,20 @@
 ![github](https://github.com/satara2358/satara2358/assets/25549072/19c3ef8b-15a1-49b1-a003-3d44854a981e)
 
-<h1 align="center">Hola, soy Raúl Peña</h1>
-<h3 align="center">Aprovecho las oportunidades para ampliar mis conocimientos técnicos y mantenerme actualizado sobre las últimas tecnologías y tendencias en el campo de la ingeniería.</h3>
+<h1 align="center">Hola, soy Michael Martinez</h1>
+<h3 align="center">Aqui tienes una breve introduccuion sobre el olocausto Nazi Ail HIttler</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/tecnopolispasto" target="blank">
     <img src="https://pbs.twimg.com/profile_images/1019710199291146240/yt7n8OBy_400x400.jpg" width="48px" height="48px" alt="tecnopolispasto" /> 
   </a> 
 </p>
-🌱 *React, JavaScript, Vite, Astro y Vercel*
+¿Qué fue el Holocausto? 
 
-- 🤝 to look for help [Dudas de Programación Discord](https://discord.com/)
+- 🤝 to look for help [Dudas Sobre el olocausto](https://encyclopedia.ushmm.org/content/es/article/introduction-to-the-holocaust)
 
-- 💬 Preguntame acerca de *aspectos éticos de la Inteligencia Artificial (IA), como la privacidad de los datos, sesgos algorítmicos, transparencia y explicabilidad de los modelos de IA, responsabilidad y toma de decisiones éticas, impacto social y laboral de la IA , entre otros temas relacionados. Estoy aquí para brindarte información y discutir cualquier pregunta o inquietud que tengas sobre la ética en la IA.*
+- 💬 El Holocausto (1933-1945) fue la persecución y el asesinato sistemático de aproximadamente seis millones de judíos europeos, auspiciados por el régimen alemán nazi y sus colaboradores. El Museo Conmemorativo del Holocausto de Estados Unidos define los años del Holocausto de 1933 a 1945. La era del Holocausto comenzó en 1933, cuando Adolf Hitler y el Partido Nazi llegaron al poder en Alemania. Terminó en 1945, cuando las potencias aliadas derrotaron a la Alemania nazi en la Segunda Guerra Mundial. El Holocausto también se denomina a veces “Shoah”, palabra hebrea que significa “catástrofe”.
 
-- 📫 Cómo contactarme *tatenokay@gmail.com*
+- 📫 Cómo contactarme *3137185260maicol@gmail.com*
 - **[Twitter](https://twitter.com/Tecnopolispasto)**
 - **[BLOG-Elementos Para Aprender Inteligencia Artificial](https://inteligenciaartificialtec.club.hotmart.com/login)**
 - Trabajo actualmente en proyectos similares:* *[Generador de Peliculas](https://movie-generator-sand.vercel.app/)** - **[Generador de Imagenes](https://gpt-generate-image-hzjxukyts-satara2358.vercel.app/)**
@@ -28,7 +28,7 @@ const nicks = {
 }
 
 
-<h4 align="left">Conéctate conmigo:</h4>
+<h4 align="left">Que te parecio esto:</h4>
 <p align="left">
   <a href="https://twitter.com/tecnopolispasto" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
